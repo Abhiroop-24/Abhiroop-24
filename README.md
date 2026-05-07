@@ -37,10 +37,36 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 ---
 
+### `metrics`
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Abhiroop-24&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=555555)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhiroop-24&theme=dark&hide_border=true&background=0d1117&ring=888888&fire=888888&currStreakLabel=888888)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhiroop-24&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=555555&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiroop-24&theme=dark&hide_border=true&background=0d1117&ring=888888&fire=888888&currStreakLabel=888888" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiroop-24&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhiroop-24&theme=github_dark&utcOffset=5.5" />
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhiroop-24&theme=github_dark)
+
+</div>
+
+---
+
+### `activity`
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </div>
 
@@ -50,13 +76,13 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 ```
 <!-- LANGS_START -->
-TypeScript      ███████░░░░░░░░░░░░░  39.4%
-Python          █████░░░░░░░░░░░░░░░  27.9%
-C               █░░░░░░░░░░░░░░░░░░░   9.7%
-HTML            █░░░░░░░░░░░░░░░░░░░   8.0%
-JavaScript      █░░░░░░░░░░░░░░░░░░░   6.8%
-CSS             █░░░░░░░░░░░░░░░░░░░   6.1%
-Shell           ░░░░░░░░░░░░░░░░░░░░   1.0%
+Python          ████████████░░░░░░░░  61.2%
+C++             ██████░░░░░░░░░░░░░░  28.4%
+JavaScript      ██░░░░░░░░░░░░░░░░░░   6.7%
+C               █░░░░░░░░░░░░░░░░░░░   2.3%
+TypeScript      ░░░░░░░░░░░░░░░░░░░░   0.9%
+Shell           ░░░░░░░░░░░░░░░░░░░░   0.3%
+Rust            ░░░░░░░░░░░░░░░░░░░░   0.2%
 <!-- LANGS_END -->
 ```
 
@@ -64,44 +90,62 @@ Shell           ░░░░░░░░░░░░░░░░░░░░   1
 
 ### `stack`
 
-![PyTorch](https://img.shields.io/badge/PyTorch-555555?style=flat-square&logo=pytorch&logoColor=white&labelColor=111111)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-555555?style=flat-square&logo=tensorflow&logoColor=white&labelColor=111111)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-555555?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=111111)
-![OpenCV](https://img.shields.io/badge/OpenCV-555555?style=flat-square&logo=opencv&logoColor=white&labelColor=111111)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-555555?style=flat-square&logo=huggingface&logoColor=white&labelColor=111111)
-![Docker](https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white&labelColor=111111)
-![MLflow](https://img.shields.io/badge/MLflow-555555?style=flat-square&logo=mlflow&logoColor=white&labelColor=111111)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-555555?style=flat-square&logo=github-actions&logoColor=white&labelColor=111111)
-![Linux](https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white&labelColor=111111)
-![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white&labelColor=111111)
-![C++](https://img.shields.io/badge/C++-555555?style=flat-square&logo=cplusplus&logoColor=white&labelColor=111111)
-![Rust](https://img.shields.io/badge/Rust-555555?style=flat-square&logo=rust&logoColor=white&labelColor=111111)
-![GDB](https://img.shields.io/badge/GDB-555555?style=flat-square&logo=gnu&logoColor=white&labelColor=111111)
-![ESP32](https://img.shields.io/badge/ESP32-555555?style=flat-square&logo=espressif&logoColor=white&labelColor=111111)
-![Arduino](https://img.shields.io/badge/Arduino-555555?style=flat-square&logo=arduino&logoColor=white&labelColor=111111)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-555555?style=flat-square&logo=raspberry-pi&logoColor=white&labelColor=111111)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-555555?style=flat-square&logoColor=white&labelColor=111111)
-![Wireshark](https://img.shields.io/badge/Wireshark-555555?style=flat-square&logo=wireshark&logoColor=white&labelColor=111111)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-555555?style=flat-square&logoColor=white&labelColor=111111)
-![Python](https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white&labelColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white&labelColor=111111)
-![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white&labelColor=111111)
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### `contributions`
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/Abhiroop-24/Abhiroop-24/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
 ### `connect`
 
-[![Gmail](https://img.shields.io/badge/Gmail-555555?style=flat-square&logo=gmail&logoColor=white&labelColor=111111)](mailto:abhiroopsanil24@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111)](https://linkedin.com/in/abhiroop-sanil)
-[![Instagram](https://img.shields.io/badge/Instagram-555555?style=flat-square&logo=instagram&logoColor=white&labelColor=111111)](https://instagram.com/abhiroop_sanil)
-[![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white&labelColor=111111)](https://github.com/Abhiroop-24)
+<p align="center">
+<a href="mailto:abhiroopsanil24@gmail.com"><img src="https://img.shields.io/badge/Gmail-555555?style=flat-square&logo=gmail&logoColor=white&labelColor=111111" /></a>
+<a href="https://linkedin.com/in/abhiroop-sanil"><img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111" /></a>
+<a href="https://instagram.com/abhiroop_sanil"><img src="https://img.shields.io/badge/Instagram-555555?style=flat-square&logo=instagram&logoColor=white&labelColor=111111" /></a>
+<a href="https://github.com/Abhiroop-24"><img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white&labelColor=111111" /></a>
+</p>
 
 ---
 
 <div align="center">
 
-*auto-refreshed every 6h — abhiroop-24.github.io*
+![](https://komarev.com/ghpvc/?username=Abhiroop-24&color=555555&style=flat-square&label=profile+views)
 
-<!-- LAST_UPDATED 2026-05-07 19:53 UTC -->
+*auto-refreshed every 6h*
+
+<!-- LAST_UPDATED -->
 
 </div>

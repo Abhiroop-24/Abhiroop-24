@@ -14,7 +14,7 @@ def fetch_github_data(username):
         headers["Authorization"] = f"token {token}"
 
     user_url = f"https://api.github.com/users/{username}"
-    repos_url = f"https://api.github.com/users/{username}/repos?per_page=100"
+    repos_url = f"https://api.github.com/users/{username}/repos?per_page=100&type=owner"
 
     req = urllib.request.Request(user_url, headers=headers)
     with urllib.request.urlopen(req) as response:
@@ -37,7 +37,7 @@ def fetch_language_stats(username, repos):
     language_bytes = {}
 
     for repo in repos:
-        if repo.get("fork"):
+        if repo.get("fork") or repo.get("private"):
             continue
         lang_url = repo["languages_url"]
         try:
@@ -55,7 +55,7 @@ def fetch_language_stats(username, repos):
 def compute_language_bars(language_bytes, top_n=7, bar_width=20):
     """Generate ASCII progress bars for top languages."""
     if not language_bytes:
-        return ""
+        return "No language data available yet"
 
     total_bytes = sum(language_bytes.values())
     sorted_langs = sorted(language_bytes.items(), key=lambda x: x[1], reverse=True)[:top_n]
@@ -74,31 +74,37 @@ def compute_language_bars(language_bytes, top_n=7, bar_width=20):
 def update_readme(username):
     """Update README.md with fresh GitHub data."""
     print(f"Fetching data for {username}...")
-    user_data, repos_data = fetch_github_data(username)
-    language_bytes = fetch_language_stats(username, repos_data)
+    
+    try:
+        user_data, repos_data = fetch_github_data(username)
+        language_bytes = fetch_language_stats(username, repos_data)
 
-    print(f"Fetched {len(repos_data)} repos, computing language stats...")
-    language_section = compute_language_bars(language_bytes)
+        print(f"Fetched {len(repos_data)} repos, computing language stats...")
+        language_section = compute_language_bars(language_bytes)
 
-    readme_path = "README.md"
-    with open(readme_path, "r", encoding="utf-8") as f:
-        content = f.read()
+        readme_path = "README.md"
+        with open(readme_path, "r", encoding="utf-8") as f:
+            content = f.read()
 
-    # Update language section
-    langs_pattern = r"(<!-- LANGS_START -->).*?(<!-- LANGS_END -->)"
-    langs_replacement = f"\\1\n{language_section}\n\\2"
-    content = re.sub(langs_pattern, langs_replacement, content, flags=re.DOTALL)
+        # Update language section
+        langs_pattern = r"(<!-- LANGS_START -->).*?(<!-- LANGS_END -->)"
+        langs_replacement = f"\\1\n{language_section}\n\\2"
+        content = re.sub(langs_pattern, langs_replacement, content, flags=re.DOTALL)
 
-    # Update timestamp
-    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    timestamp_pattern = r"<!-- LAST_UPDATED -->"
-    timestamp_replacement = f"<!-- LAST_UPDATED {timestamp} -->"
-    content = re.sub(timestamp_pattern, timestamp_replacement, content)
+        # Update timestamp
+        timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+        timestamp_pattern = r"<!-- LAST_UPDATED -->"
+        timestamp_replacement = f"<!-- LAST_UPDATED {timestamp} -->"
+        content = re.sub(timestamp_pattern, timestamp_replacement, content)
 
-    with open(readme_path, "w", encoding="utf-8") as f:
-        f.write(content)
+        with open(readme_path, "w", encoding="utf-8") as f:
+            f.write(content)
 
-    print(f"README updated at {timestamp}")
+        print(f"README updated at {timestamp}")
+        
+    except Exception as e:
+        print(f"Error updating README: {e}")
+        raise
 
 
 if __name__ == "__main__":
