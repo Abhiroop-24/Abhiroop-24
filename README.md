@@ -12,6 +12,7 @@
 class Abhiroop:
     institution = "PES University, Electronic City"
     contact     = "abhiroopsanil24@gmail.com"
+    portfolio   = "https://sanil-portfolio-v1.vercel.app/"
     expertise   = ["AI/ML", "MLOps", "Systems Programming", "Embedded Systems", "Computer Networking"]
     currently   = "building systems that sit at the edge of hardware and intelligence"
 ```
@@ -101,11 +102,8 @@ Shell           ░░░░░░░░░░░░░░░░░░░░   1
 </p>
 
 <p align="center">
-<a href="https://abhiroop-24.github.io">
+<a href="https://sanil-portfolio-v1.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-555555?style=for-the-badge" height="35"/>
-</a>
-<a href="mailto:abhiroopsanil24@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-555555?style=for-the-badge" height="35"/>
 </a>
 </p>
 
