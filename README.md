@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-   █████╗ ██████╗ ██╗  ██╗██╗██████╗  ██████╗  ██████╗ ██████╗ 
-  ██╔══██╗██╔══██╗██║  ██║██║██╔══██╗██╔═══██╗██╔═══██╗██╔══██╗
-  ███████║██████╔╝███████║██║██████╔╝██║   ██║██║   ██║██████╔╝
-  ██╔══██║██╔══██╗██╔══██║██║██╔══██╗██║   ██║██║   ██║██╔═══╝ 
-  ██║  ██║██████╔╝██║  ██║██║██║  ██║╚██████╔╝╚██████╔╝██║     
-  ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     
-```
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=999999&background=00000000&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;MLOps+%26+Systems;Embedded+Systems+%26+RF+Sensing;Computer+Networks)](https://git.io/typing-svg)
 
@@ -88,16 +81,6 @@ Shell           ░░░░░░░░░░░░░░░░░░░░   1
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,java,c,cpp,vim,raspberrypi,git,github,aws,gcp,arduino,typescript,javascript,react,linux,figma,docker,firebase&theme=dark&perline=10" />
   </a>
 </p>
-
----
-
-### `contributions`
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/Abhiroop-24/Abhiroop-24/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
