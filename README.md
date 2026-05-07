@@ -50,6 +50,27 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 ### `activity`
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiroop-24&bg_color=0d1117&color=888888&line=888888&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhiroop-24&theme=github_dark&utcOffset=5.5" width="49%" alt="productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhiroop-24&theme=github_dark" width="49%" alt="repos per language" />
+
+</div>
+
+<div align="center">
+
+### `visitor map`
+
+<img src="https://profile-counter.glitch.me/Abhiroop-24/count.svg" alt="visitor count" />
+
+</div>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
