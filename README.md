@@ -1,6 +1,6 @@
 <div align="center">
 
-# ABHIROOP SANIL
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,3,5,6&height=150&section=header&text=ABHIROOP%20SANIL&fontSize=50&fontColor=fff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=999999&background=00000000&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;MLOps+%26+Systems;Embedded+Systems+%26+RF+Sensing;Computer+Networks)](https://git.io/typing-svg)
 
