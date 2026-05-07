@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Abhiroop-24/Abhiroop-24/main/assets/dino.svg" alt="dino game" width="600"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=999999&background=00000000&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;MLOps+%26+Systems;Embedded+Systems+%26+RF+Sensing;Computer+Networks)](https://git.io/typing-svg)
 

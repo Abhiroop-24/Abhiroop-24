@@ -1,0 +1,76 @@
+<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes dino-run {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-2px); }
+    }
+    @keyframes cactus-move {
+      0% { transform: translateX(600px); }
+      100% { transform: translateX(-50px); }
+    }
+    @keyframes cloud-move {
+      0% { transform: translateX(600px); }
+      100% { transform: translateX(-100px); }
+    }
+    .dino {
+      animation: dino-run 0.2s infinite;
+    }
+    .cactus {
+      animation: cactus-move 3s linear infinite;
+    }
+    .cloud {
+      animation: cloud-move 8s linear infinite;
+    }
+    .ground {
+      stroke: #888888;
+      stroke-width: 2;
+    }
+  </style>
+  
+  <!-- Background -->
+  <rect width="600" height="150" fill="#0d1117"/>
+  
+  <!-- Ground line -->
+  <line x1="0" y1="120" x2="600" y2="120" class="ground"/>
+  
+  <!-- Cloud -->
+  <g class="cloud">
+    <ellipse cx="50" cy="30" rx="15" ry="8" fill="#555555"/>
+    <ellipse cx="65" cy="30" rx="12" ry="8" fill="#555555"/>
+    <ellipse cx="35" cy="30" rx="10" ry="6" fill="#555555"/>
+  </g>
+  
+  <!-- Dino -->
+  <g class="dino" transform="translate(80, 80)">
+    <!-- Body -->
+    <rect x="0" y="10" width="30" height="25" fill="#888888"/>
+    <!-- Head -->
+    <rect x="25" y="0" width="20" height="15" fill="#888888"/>
+    <!-- Eye -->
+    <circle cx="40" cy="5" r="2" fill="#0d1117"/>
+    <!-- Legs -->
+    <rect x="5" y="35" width="5" height="10" fill="#888888"/>
+    <rect x="20" y="35" width="5" height="10" fill="#888888"/>
+    <!-- Tail -->
+    <rect x="-5" y="15" width="8" height="8" fill="#888888"/>
+  </g>
+  
+  <!-- Cactus 1 -->
+  <g class="cactus">
+    <rect x="0" y="95" width="10" height="25" fill="#555555"/>
+    <rect x="-5" y="100" width="5" height="8" fill="#555555"/>
+    <rect x="10" y="105" width="5" height="8" fill="#555555"/>
+  </g>
+  
+  <!-- Cactus 2 -->
+  <g class="cactus" style="animation-delay: -1.5s;">
+    <rect x="0" y="100" width="8" height="20" fill="#555555"/>
+    <rect x="-4" y="105" width="4" height="6" fill="#555555"/>
+  </g>
+  
+  <!-- Score text -->
+  <text x="550" y="30" font-family="monospace" font-size="14" fill="#888888">HI 00000</text>
+  
+  <!-- ABHIROOP text in retro style -->
+  <text x="200" y="145" font-family="'Courier New', monospace" font-size="16" fill="#888888" font-weight="bold">ABHIROOP SANIL</text>
+</svg>
