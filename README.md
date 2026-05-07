@@ -35,14 +35,14 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiroop-24&theme=dark&hide_border=true&background=0d1117&ring=888888&fire=888888&currStreakLabel=888888" alt="streak stats" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiroop-24&bg_color=0d1117&color=888888&line=888888&point=ffffff&area=true&hide_border=true&height=180" alt="activity graph" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiroop-24&theme=dark&hide_border=true&background=0d1117&ring=888888&fire=888888&currStreakLabel=888888&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=300" alt="streak stats" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiroop-24&bg_color=0d1117&color=888888&line=888888&point=ffffff&area=true&hide_border=true&height=180&cache_seconds=300" alt="activity graph" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhiroop-24&theme=github_dark" alt="contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhiroop-24&theme=github_dark&cache_seconds=300" alt="contribution graph" />
 
 </div>
 
