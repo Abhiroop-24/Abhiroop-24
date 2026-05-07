@@ -92,7 +92,7 @@ Shell           ░░░░░░░░░░░░░░░░░░░░   1
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,java,c,cpp,vim,raspberrypi,git,github,aws,gcp,gemini,oracle,arduino,typescript,javascript,react,linux,figma,docker,firebase&theme=dark&perline=11" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,java,c,cpp,vim,raspberrypi,git,github,aws,gcp,arduino,typescript,javascript,react,linux,figma,docker,firebase&theme=dark&perline=10" />
   </a>
 </p>
 
