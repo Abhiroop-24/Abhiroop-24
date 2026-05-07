@@ -47,23 +47,20 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 ---
 
-### `recent activity`
+### `activity`
+
+<div align="center">
 
 <!--START_SECTION:activity-->
-1. 🎯 Opened PR in [repo-name](link)
-2. ⭐ Starred [repo-name](link)
-3. 🔨 Pushed to main in [repo-name](link)
-4. 💬 Commented on issue in [repo-name](link)
-5. 🔀 Merged PR in [repo-name](link)
 <!--END_SECTION:activity-->
+
+</div>
 
 ---
 
 ### `languages`
 
-<div align="center">
-
-```text
+```
 <!-- LANGS_START -->
 TypeScript      ███████░░░░░░░░░░░░░  39.4%
 Python          █████░░░░░░░░░░░░░░░  27.9%
@@ -74,18 +71,6 @@ CSS             █░░░░░░░░░░░░░░░░░░░   6
 Shell           ░░░░░░░░░░░░░░░░░░░░   1.0%
 <!-- LANGS_END -->
 ```
-
-</div>
-
----
-
-### `coding activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiroop-24&bg_color=0d1117&color=888888&line=888888&point=ffffff&area=true&hide_border=true" />
-
-</div>
 
 ---
 
