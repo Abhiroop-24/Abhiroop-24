@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="100" height="100" />
-
-# ABHIROOP SANIL
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=200&section=header&text=ABHIROOP%20SANIL&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20systems%20at%20the%20edge%20of%20hardware%20and%20intelligence&descAlignY=55&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=999999&background=00000000&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;MLOps+%26+Systems;Embedded+Systems+%26+RF+Sensing;Computer+Networks)](https://git.io/typing-svg)
 
