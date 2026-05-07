@@ -31,12 +31,12 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 ---
 
-### `metrics`
+### `metrics & activity`
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiroop-24&theme=dark&hide_border=true&background=0d1117&ring=888888&fire=888888&currStreakLabel=888888&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=300" alt="streak stats" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiroop-24&bg_color=0d1117&color=888888&line=888888&point=ffffff&area=true&hide_border=true&height=180&cache_seconds=300" alt="activity graph" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhiroop-24&theme=github_dark&utcOffset=5.5&cache_seconds=300" alt="productive time" />
 
 </div>
 
@@ -46,33 +46,12 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 </div>
 
----
-
-### `activity`
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiroop-24&bg_color=0d1117&color=888888&line=888888&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhiroop-24&theme=github_dark&cache_seconds=300" alt="repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhiroop-24&theme=github_dark&cache_seconds=300" alt="most commit language" />
 
 </div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhiroop-24&theme=github_dark&utcOffset=5.5" width="49%" alt="productive time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhiroop-24&theme=github_dark" width="49%" alt="repos per language" />
-
-</div>
-
-<div align="center">
-
-### `visitor map`
-
-<img src="https://profile-counter.glitch.me/Abhiroop-24/count.svg" alt="visitor count" />
-
-</div>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
