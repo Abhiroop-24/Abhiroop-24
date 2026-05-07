@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,3,5,6&height=150&section=header&text=ABHIROOP%20SANIL&fontSize=50&fontColor=fff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=200&section=header&text=ABHIROOP%20SANIL&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20systems%20at%20the%20edge%20of%20hardware%20and%20intelligence&descAlignY=55&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=999999&background=00000000&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;MLOps+%26+Systems;Embedded+Systems+%26+RF+Sensing;Computer+Networks)](https://git.io/typing-svg)
 
