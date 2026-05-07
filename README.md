@@ -84,16 +84,28 @@ Shell           ░░░░░░░░░░░░░░░░░░░░   1
 
 <p align="center">
 <a href="mailto:abhiroopsanil24@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/-Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
 <a href="https://linkedin.com/in/abhiroop-sanil">
-  <img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/-LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
 <a href="https://instagram.com/abhiroop_sanil">
-  <img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/-Instagram-555555?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
 </a>
 <a href="https://github.com/Abhiroop-24">
-  <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
+  <img src="https://img.shields.io/badge/-GitHub-555555?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+</a>
+<a href="https://twitter.com/abhiroop_sanil">
+  <img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=x&logoColor=white" height="35"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://abhiroop-24.github.io">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-555555?style=for-the-badge" height="35"/>
+</a>
+<a href="mailto:abhiroopsanil24@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-555555?style=for-the-badge" height="35"/>
 </a>
 </p>
 
@@ -101,12 +113,12 @@ Shell           ░░░░░░░░░░░░░░░░░░░░   1
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Abhiroop-24&color=555555&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Abhiroop-24&color=555555&style=for-the-badge&label=PROFILE+VIEWS" height="30"/>
 
-<br/>
+<br/><br/>
 
 ```
-last updated: auto-refresh every 6h
+⚡ last updated: auto-refresh every 6h
 ```
 
 <!-- LAST_UPDATED 2026-05-07 20:00 UTC -->
