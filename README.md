@@ -41,15 +41,8 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhiroop-24&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=555555&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiroop-24&theme=dark&hide_border=true&background=0d1117&ring=888888&fire=888888&currStreakLabel=888888" />
-
-</div>
-
-<div align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiroop-24&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhiroop-24&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
