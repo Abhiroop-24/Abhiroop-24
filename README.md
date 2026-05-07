@@ -83,19 +83,31 @@ Shell           ░░░░░░░░░░░░░░░░░░░░   1
 ### `connect`
 
 <p align="center">
-<a href="mailto:abhiroopsanil24@gmail.com"><img src="https://img.shields.io/badge/Gmail-555555?style=flat-square&logo=gmail&logoColor=white&labelColor=111111" /></a>
-<a href="https://linkedin.com/in/abhiroop-sanil"><img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white&labelColor=111111" /></a>
-<a href="https://instagram.com/abhiroop_sanil"><img src="https://img.shields.io/badge/Instagram-555555?style=flat-square&logo=instagram&logoColor=white&labelColor=111111" /></a>
-<a href="https://github.com/Abhiroop-24"><img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white&labelColor=111111" /></a>
+<a href="mailto:abhiroopsanil24@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" />
+</a>
+<a href="https://linkedin.com/in/abhiroop-sanil">
+  <img src="https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" />
+</a>
+<a href="https://instagram.com/abhiroop_sanil">
+  <img src="https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" />
+</a>
+<a href="https://github.com/Abhiroop-24">
+  <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
+</a>
 </p>
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Abhiroop-24&color=555555&style=flat-square&label=profile+views)
+<img src="https://komarev.com/ghpvc/?username=Abhiroop-24&color=555555&style=for-the-badge&label=PROFILE+VIEWS" />
 
-*auto-refreshed every 6h*
+<br/>
+
+```
+last updated: auto-refresh every 6h
+```
 
 <!-- LAST_UPDATED 2026-05-07 20:00 UTC -->
 
