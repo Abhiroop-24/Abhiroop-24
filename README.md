@@ -54,13 +54,13 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 ```
 <!-- LANGS_START -->
-Python          ████████████░░░░░░░░  61.2%
-C++             ██████░░░░░░░░░░░░░░  28.4%
-JavaScript      ██░░░░░░░░░░░░░░░░░░   6.7%
-C               █░░░░░░░░░░░░░░░░░░░   2.3%
-TypeScript      ░░░░░░░░░░░░░░░░░░░░   0.9%
-Shell           ░░░░░░░░░░░░░░░░░░░░   0.3%
-Rust            ░░░░░░░░░░░░░░░░░░░░   0.2%
+TypeScript      ███████░░░░░░░░░░░░░  39.4%
+Python          █████░░░░░░░░░░░░░░░  27.9%
+C               █░░░░░░░░░░░░░░░░░░░   9.7%
+HTML            █░░░░░░░░░░░░░░░░░░░   8.0%
+JavaScript      █░░░░░░░░░░░░░░░░░░░   6.8%
+CSS             █░░░░░░░░░░░░░░░░░░░   6.1%
+Shell           ░░░░░░░░░░░░░░░░░░░░   1.0%
 <!-- LANGS_END -->
 ```
 
@@ -123,6 +123,6 @@ Rust            ░░░░░░░░░░░░░░░░░░░░   0
 
 *auto-refreshed every 6h — abhiroop-24.github.io*
 
-<!-- LAST_UPDATED -->
+<!-- LAST_UPDATED 2026-05-07 19:53 UTC -->
 
 </div>
