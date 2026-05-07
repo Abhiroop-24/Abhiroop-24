@@ -49,18 +49,28 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 ### `activity`
 
-<div align="center">
+<table>
+<tr>
+<td>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ### `languages`
 
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```text
 <!-- LANGS_START -->
 TypeScript      ███████░░░░░░░░░░░░░  39.4%
 Python          █████░░░░░░░░░░░░░░░  27.9%
@@ -71,6 +81,17 @@ CSS             █░░░░░░░░░░░░░░░░░░░   6
 Shell           ░░░░░░░░░░░░░░░░░░░░   1.0%
 <!-- LANGS_END -->
 ```
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiroop-24&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&langs_count=8" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
