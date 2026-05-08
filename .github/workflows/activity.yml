@@ -21,39 +21,47 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const fs = require('fs');
-            const { data: events } = await github.rest.activity.listEventsForAuthenticatedUser({
-              per_page: 5
-            });
-            
-            let activity = '';
-            events.forEach((event, index) => {
-              const repo = event.repo.name;
-              const type = event.type;
-              let action = '';
+            try {
+              const { data: events } = await github.rest.activity.listEventsForAuthenticatedUser({
+                per_page: 5
+              });
               
-              if (type === 'PushEvent') action = '→ Pushed to';
-              else if (type === 'PullRequestEvent') action = '→ PR on';
-              else if (type === 'IssuesEvent') action = '→ Issue on';
-              else if (type === 'CreateEvent') action = '→ Created';
-              else if (type === 'WatchEvent') action = '→ Starred';
-              else action = '→ Activity on';
+              let activity = '';
+              events.forEach((event, index) => {
+                const repo = event.repo.name;
+                const type = event.type;
+                let action = '';
+                
+                if (type === 'PushEvent') action = '→ Pushed to';
+                else if (type === 'PullRequestEvent') action = '→ PR on';
+                else if (type === 'IssuesEvent') action = '→ Issue on';
+                else if (type === 'CreateEvent') action = '→ Created';
+                else if (type === 'WatchEvent') action = '→ Starred';
+                else action = '→ Activity on';
+                
+                const date = new Date(event.created_at).toLocaleDateString();
+                activity += `${index + 1}. ${action} ${repo} (${date})\n`;
+              });
               
-              const date = new Date(event.created_at).toLocaleDateString();
-              activity += `${index + 1}. ${action} ${repo} (${date})\n`;
-            });
-            
-            let readme = fs.readFileSync('README.md', 'utf8');
-            const startMarker = '<!--START_SECTION:activity-->';
-            const endMarker = '<!--END_SECTION:activity-->';
-            
-            const startIndex = readme.indexOf(startMarker);
-            const endIndex = readme.indexOf(endMarker);
-            
-            if (startIndex !== -1 && endIndex !== -1) {
-              readme = readme.substring(0, startIndex + startMarker.length) + 
-                       '\n' + activity + '\n' +
-                       readme.substring(endIndex);
-              fs.writeFileSync('README.md', readme);
+              let readme = fs.readFileSync('README.md', 'utf8');
+              const startMarker = '<!--START_SECTION:activity-->';
+              const endMarker = '<!--END_SECTION:activity-->';
+              
+              const startIndex = readme.indexOf(startMarker);
+              const endIndex = readme.indexOf(endMarker);
+              
+              if (startIndex !== -1 && endIndex !== -1) {
+                const before = readme.substring(0, startIndex + startMarker.length);
+                const after = readme.substring(endIndex);
+                readme = before + '\n' + activity + '\n' + after;
+                fs.writeFileSync('README.md', readme);
+                console.log('Activity updated successfully');
+              } else {
+                console.log('Markers not found in README');
+              }
+            } catch (error) {
+              console.error('Error:', error);
+              process.exit(1);
             }
 
       - name: Commit changes
@@ -61,5 +69,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update activity" && git push)
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "chore: update activity"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
 
