@@ -55,18 +55,6 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 ---
 
-### `recent activity`
-
-<!--START_SECTION:activity-->
-1. → Pushed to main branch
-2. → Opened pull request
-3. → Committed changes
-4. → Updated documentation
-5. → Merged pull request
-<!--END_SECTION:activity-->
-
----
-
 ### `stack`
 
 <p align="center">
