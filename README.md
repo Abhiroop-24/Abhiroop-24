@@ -58,9 +58,26 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 ### `stack`
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,java,c,cpp,vim,raspberrypi,git,github,aws,gcp,arduino,typescript,javascript,react,linux,figma,docker,firebase&theme=dark&perline=10" />
-  </a>
+  <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/></a>
+  <a href="https://tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/></a>
+  <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/></a>
+  <a href="https://java.com"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C"/></a>
+  <a href="https://cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/></a>
+  <a href="https://vim.org"><img src="https://skillicons.dev/icons?i=vim&theme=dark" width="48" height="48" alt="Vim"/></a>
+  <a href="https://raspberrypi.org"><img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="48" height="48" alt="Raspberry Pi"/></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/></a>
+  <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/></a>
+  <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="Google Cloud"/></a>
+  <a href="https://arduino.cc"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" height="48" alt="Arduino"/></a>
+  <a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" height="48" alt="TypeScript"/></a>
+  <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" height="48" alt="JavaScript"/></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/></a>
+  <a href="https://linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/></a>
+  <a href="https://figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma"/></a>
+  <a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/></a>
+  <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase"/></a>
 </p>
 
 ---
