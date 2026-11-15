@@ -31,40 +31,6 @@ Networking       ->  protocols, socket programming, RF communication, NRF24L01, 
 
 ---
 
-### `metrics & activity`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiroop-24&theme=dark&hide_border=true&background=0d1117&ring=888888&fire=888888&currStreakLabel=888888&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=300" alt="streak stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhiroop-24&theme=github_dark&utcOffset=5.5&cache_seconds=300" alt="productive time" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhiroop-24&theme=github_dark&cache_seconds=300" alt="contribution graph" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhiroop-24&theme=github_dark&cache_seconds=300" alt="repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhiroop-24&theme=github_dark&cache_seconds=300" alt="most commit language" />
-
-</div>
-
----
-
-### `stack`
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,java,c,cpp,vim,raspberrypi,git,github,aws,gcp,arduino,typescript,javascript,react,linux,figma,docker,firebase&theme=dark&perline=10" />
-  </a>
-</p>
-
----
-
 ### `connect`
 
 <p align="center">
